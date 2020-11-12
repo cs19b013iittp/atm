@@ -3,6 +3,7 @@ ATM-Case Study 2
 About
 
 1)The software has a User Friendly GUI for easy use of the software
+
 2)There are two main classes (bank & account).There are five more classes two show different frames for login(written with name atm),menu(it has withdraw,deposit,show balance options),withdraw,deposit ,show,otp,helper(block card) and transfer.
 3)Most of the variables are declared with keywords private and final for extra safety
 4)It is made sure that there is an override to cancel the transaction by user at any stage of the transaction.
